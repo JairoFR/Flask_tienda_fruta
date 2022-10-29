@@ -45,4 +45,4 @@
     2.- Ir a Python: select interpreter ctrl+shift+p.
     3.- Seleccionar el ambiente virtual creado con el nombre de la carpeta.
     4.- Abrir nueva terminal y escribir python servidor.py
-    5.- Escribir rutas especificadas en Seccion contenido.
+
