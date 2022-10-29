@@ -26,8 +26,8 @@
 #### Clona el repositorio del proyecto: 
 
 
-    $ git clone https://github.com/JairoFR/flask_patio_juegos.git  
-    $ cd flask_patio_juegos
+    $ git clone https://github.com/JairoFR/Flask_tienda_fruta.git   
+    $ cd Flask_tienda_fruta.git
 
 ####  Instala desde Pipfile los paquetes que vienen configurados: 
     $ pipenv install
